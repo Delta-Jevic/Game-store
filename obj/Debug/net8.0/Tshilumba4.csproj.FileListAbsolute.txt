@@ -1,0 +1,14 @@
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\bin\Debug\net8.0\Tshilumba4.exe
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\bin\Debug\net8.0\Tshilumba4.deps.json
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\bin\Debug\net8.0\Tshilumba4.runtimeconfig.json
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\bin\Debug\net8.0\Tshilumba4.dll
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\bin\Debug\net8.0\Tshilumba4.pdb
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\obj\Debug\net8.0\Tshilumba4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\obj\Debug\net8.0\Tshilumba4.AssemblyInfoInputs.cache
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\obj\Debug\net8.0\Tshilumba4.AssemblyInfo.cs
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\obj\Debug\net8.0\Tshilumba4.csproj.CoreCompileInputs.cache
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\obj\Debug\net8.0\Tshilumba4.dll
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\obj\Debug\net8.0\refint\Tshilumba4.dll
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\obj\Debug\net8.0\Tshilumba4.pdb
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\obj\Debug\net8.0\Tshilumba4.genruntimeconfig.cache
+C:\Users\Jevic\Documents\Tshilumba4\Tshilumba4\obj\Debug\net8.0\ref\Tshilumba4.dll
